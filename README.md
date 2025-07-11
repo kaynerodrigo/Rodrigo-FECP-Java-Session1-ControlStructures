@@ -1,4 +1,4 @@
-# FECP-Java-Session1-Operators
+# FECP-Java-Session1-ControlStructures
 
 - Name: Kayne Uriel K. Rodrigo
 - Project title: FECP-Java-Session1-ControlStructures
